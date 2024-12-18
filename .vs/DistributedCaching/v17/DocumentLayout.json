@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\smkwo\\Desktop\\GitHub\\ASP.NET-Core-8-OpenApi-PostgreSQL-EF-Distributed-Cache-Redis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5CA99E4-0BEB-475D-8448-A3753479CBEC}|DistributedCaching\\DistributedCaching.csproj|c:\\users\\smkwo\\desktop\\github\\asp.net-core-8-openapi-postgresql-ef-distributed-cache-redis\\distributedcaching\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5CA99E4-0BEB-475D-8448-A3753479CBEC}|DistributedCaching\\DistributedCaching.csproj|solutionrelative:distributedcaching\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\smkwo\\Desktop\\GitHub\\ASP.NET-Core-8-OpenApi-PostgreSQL-EF-Distributed-Cache-Redis\\DistributedCaching\\Program.cs",
+              "RelativeDocumentMoniker": "DistributedCaching\\Program.cs",
+              "ToolTip": "C:\\Users\\smkwo\\Desktop\\GitHub\\ASP.NET-Core-8-OpenApi-PostgreSQL-EF-Distributed-Cache-Redis\\DistributedCaching\\Program.cs",
+              "RelativeToolTip": "DistributedCaching\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:35:12.964Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
